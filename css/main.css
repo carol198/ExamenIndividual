@@ -1,0 +1,46 @@
+.fondoC{
+	background-color: black;
+	background-repeat: no-repeat;
+	min-height: 100px;
+
+a:hover {
+	color: red;
+}
+.imgB {
+	padding-top: 5px;
+	min-height: 300px;
+	width: 300px
+	border-top: 10px;
+	border-left: 10px;
+	border-right: 10px;
+	border-bottom: 20px;
+
+.lista a{
+	display: inline;
+	float: left;
+	text-decoration: none;
+
+}
+.imgF{
+	border-top: 10px;
+	border-left: 10px;
+	border-right: 10px;
+	border-bottom: 20px;
+
+}
+.texto{
+	margin-top: 30px;
+
+}
+.icon-windows{
+	color: black;
+	font-size: 30px;
+}
+.boton{
+	border-bottom: 2px;
+
+}
+.botonL{
+	min-height: 500px;
+	width: 100%;
+}
